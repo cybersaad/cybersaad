@@ -57,7 +57,7 @@
 # 🧰 TOOLS & ENVIRONMENT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@
 # 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cybersaad&theme=radical&no-frame=true&row=1" />
 </p>
 
 ---
@@ -129,7 +129,7 @@
 <p align="center">
 <a href="https://github.com/cybersaad"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://linkedin.com/in/saad-khan-177850277"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="#"><img src="https://www.instagram.com/saad_rahi301/"/></a>
+<a href="https://www.instagram.com/saad_rahi301/"/><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
