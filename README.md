@@ -73,9 +73,7 @@
 
 **Tech Used:**
 
-* C++
-* Algorithms
-* Mathematical Logic
+* C
 
 ---
 
