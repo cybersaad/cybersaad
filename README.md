@@ -1,128 +1,133 @@
 <!-- ================= CYBER HEADER ================= -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600"/>
-</p>
-
-
-
-
-<h1 align="center">⚡ Saad Khan</h1>
-<h3 align="center">🛡️ Future Cyber Security Specialist | 💻 Java Developer | 🧠 Problem Solver</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hey%20There%20👋%20I'm%20Saad%20Khan&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Java%20Developer%20|%20Cyber%20Security%20Learner&descAlign=50&descAlignY=55&descSize=20" /> 
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Cyber+Security+Enthusiast;Java+%26+DSA+Learner;System+Level+Thinker;Building+Real+World+Logic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=00F5D4&center=true&vCenter=true&width=500&lines=Building+Logic;Exploring+Cyber+Security;Learning+Java;Cybersecurity+Entusiast"/>
 </p>
 
 ---
 
-# 🧠 PROFILE
+## 🧠 Profile Summary
 
-```diff
-+ Computer Science Student (BSCS)
-+ Strong foundation in OOP (Java)
-+ Good grip on C (System-level thinking)
-+ Focused on Cyber Security & Backend Logic
-+ Interested in solving real-world logical problems
-```
+🎓 Computer Science student focused on **practical skills and real-world systems**  
+💻 Strong grip on **Java (OOP)** and **C fundamentals**  
+🔐 Actively learning **Cyber Security & Web Vulnerability Testing**  
+⚙️ Interested in how systems work internally — not just surface-level coding  
 
 ---
 
-# ⚔️ SKILLS MATRIX
+## ⚙️ Tech Stack
 
-### 💻 Programming
-
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,html,css,sql" />
-</p>
-
-### 🧠 Concepts
-
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms (Learning)
-* System-Level Logic
-* Problem Solving & Debugging
-
-### 🔐 Cyber Security (Learning Path)
-
-* Networking Basics
-* Web Security Concepts
-* Ethical Hacking Fundamentals
-* Tools: Burp Suite (Beginner), WireShark, Kali Linux
-
----
-
----
-
-# 🧰 TOOLS & ENVIRONMENT
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,burpsuite,wireshark" />
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,mysql&theme=dark"/>
 </p>
 
 
-# 🚀 PROJECT ZONE
+### 🛡️ Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
+</p>
 
-## 🕌 Islamic Inheritance Distribution System
-
-> A logic-based system implementing Islamic inheritance laws using structured programming and algorithmic decision-making.
-
-**Tech Used:**
-
-* C
-
----
-
-## 📚 Personal Library Manager
-
-> A console-based application to manage books, track records, and perform operations efficiently.
-
-**Tech Used:**
-
-* Java
-* OOP Concepts
-* File Handling
-
----
-
-# 📊 GITHUB POWER STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybersaad&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersaad&theme=radical&hide_border=true" />
+### 🔐 Security Tools
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
 ---
 
-# 📈 LANGUAGE ANALYSIS
+## 🧩 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaad&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🔹 Islamic Inheritance Distribution System
+A logic-heavy application that calculates inheritance shares based on defined rules and edge cases.  
+Focuses on **mathematical logic implementation**.  
 
----
-
-# 📉 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybersaad&theme=react-dark" />
-</p>
+**Tech:** C 
 
 ---
 
-# 🏆 ACHIEVEMENTS
+### 🔹 Personal Diary Management System
+A simple application that allows users to store, update, and manage daily personal entries securely.  
+Focuses on structured data handling and user interaction through a clean logical flow.  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cybersaad&theme=radical&no-frame=true&row=1" />
-</p>
+Demonstrates **file handling, data organization, and basic application structure**.  
+
+**Tech:** Java
 
 ---
 
-# 🔗 CONNECT
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- 🔷 Custom Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=CYBERSAAD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Cybersecurity%20Learner&descAlignY=60&descSize=20" />
+
+<br/>
+
+<!-- 🔹 Stats Section -->
+<table>
+<tr>
+<td>
+
+<img src="https://gh-stats-personal.vercel.app/api?username=cybersaad&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&ring_color=00f5d4&include_all_commits=true&count_private=true" height="250"/>
+
+</td>
+<td>
+
+<img src="https://gh-stats-personal.vercel.app/api/top-langs/?username=cybersaad&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=10" height="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 🔥 Streak -->
+<img src="https://github-readme-streak-stats-phi-hazel.vercel.app/?user=cybersaad&theme=dark&hide_border=true&border_radius=20&background=0d1117&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&currStreakNum=00f5d4&sideNums=c9d1d9&dates=c9d1d9" width="100%" />
+
+<br/><br/>
+
+<!-- 📈 Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cybersaad&custom_title=Contribution%20Activity&bg_color=0d1117&color=c9d1d9&line=00f5d4&point=ffffff&area=true&hide_border=true&area_color=00f5d4&height=350" width="97%" />
+
+<br/><br/>
+
+<!-- 🏆 Achievements -->
+<details>
+<summary><b>🏆 Achievements</b></summary>
+<br>
+<img src="https://github-profile-trophy-eight.vercel.app/?username=cybersaad&theme=darkhub&no-frame=true&margin-w=10"/>
+</details>
+
+<br/>
+
+<!-- 📌 Status Badges -->
+<img src="https://img.shields.io/github/followers/cybersaad?label=Followers&style=flat-square&logo=github&color=00f5d4&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=cybersaad&label=Profile%20Views&color=00f5d4&style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<!-- 🔻 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
+
+
+## 🎯 Current Focus
+
+- 📚 Data Structures & Algorithms  
+- ☕ Advanced Java (OOP + Backend Concepts)  
+- 🔐 Web Security Testing (Burp Suite, Kali Linux)  
+
+---
+
+## 🤝 Connect
 
 <p align="center">
 <a href="https://github.com/cybersaad"><img src="https://skillicons.dev/icons?i=github"/></a>
