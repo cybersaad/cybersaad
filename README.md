@@ -29,7 +29,11 @@
 
 ### 🛡️ Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=kalilinux,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
 ### 🔐 Security Tools
