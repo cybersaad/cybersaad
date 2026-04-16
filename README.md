@@ -29,7 +29,7 @@
 
 ### 🛡️ Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=kalilinux,git,github,vscode&theme=dark"/>
 </p>
 
 ### 🔐 Security Tools
