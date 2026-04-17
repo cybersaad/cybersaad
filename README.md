@@ -1,12 +1,11 @@
 <!-- ================= CYBER HEADER ================= -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hey%20There%20👋%20I'm%20Saad%20Khan&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Java%20Developer%20|%20Cyber%20Security%20Learner&descAlign=50&descAlignY=55&descSize=20" /> 
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=00F5D4&center=true&vCenter=true&width=500&lines=Building+Logic;Exploring+Cyber+Security;Learning+Java;Cybersecurity+Entusiast"/>
+  <img src="https://raw.githubusercontent.com/cybersaad/cybersaad/main/banner.png" width="100%" />
 </p>
+
+<h1 align="center">👨‍💻 Saad Khan</h1>
+<h3 align="center">CS Student | Java & C Programmer | Cybersecurity Learner</h3>
 
 ---
 
