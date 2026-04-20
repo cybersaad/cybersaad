@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👨‍💻 Saad Khan</h1>
-<h3 align="center">CS Student | Java & C Programmer | Cybersecurity Learner</h3>
+<h3 align="center">CS Student | Java & C Programmer | Cybersecurity Enthusiast</h3>
 
 ---
 
