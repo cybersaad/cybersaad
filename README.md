@@ -90,17 +90,17 @@ Demonstrates **file handling, data organization, and basic application structure
 
 <br/>
 
-<!-- 🔥 Streak -->
+<!-- Streak -->
 <img src="https://github-readme-streak-stats-phi-hazel.vercel.app/?user=cybersaad&theme=dark&hide_border=true&border_radius=20&background=0d1117&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&currStreakNum=00f5d4&sideNums=c9d1d9&dates=c9d1d9" width="100%" />
 
 <br/><br/>
 
-<!-- 📈 Activity Graph -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybersaad&custom_title=Contribution%20Activity&bg_color=0d1117&color=c9d1d9&line=00f5d4&point=ffffff&area=true&hide_border=true&area_color=00f5d4&height=350" width="97%" />
 
 <br/><br/>
 
-<!-- 🏆 Achievements -->
+<!-- Achievements -->
 <details>
 <summary><b>🏆 Achievements</b></summary>
 <br>
@@ -116,7 +116,7 @@ Demonstrates **file handling, data organization, and basic application structure
 
 <br/><br/>
 
-<!-- 🔻 Footer -->
+<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
