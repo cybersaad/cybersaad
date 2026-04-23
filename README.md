@@ -72,7 +72,7 @@ Demonstrates **file handling, data organization, and basic application structure
 
 <br/>
 
-<!-- 🔹 Stats Section -->
+<!-- 🔹 Stats -->
 <table>
 <tr>
 <td>
