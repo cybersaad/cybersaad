@@ -109,7 +109,7 @@ Demonstrates **file handling, data organization, and basic application structure
 
 <br/>
 
-<!-- 📌 Status Badges -->
+<!-- Status Badges -->
 <img src="https://img.shields.io/github/followers/cybersaad?label=Followers&style=flat-square&logo=github&color=00f5d4&labelColor=0d1117"/>
 <img src="https://komarev.com/ghpvc/?username=cybersaad&label=Profile%20Views&color=00f5d4&style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=flat-square&labelColor=0d1117"/>
