@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/cybersaad/cybersaad/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">👨‍💻 Saad Khan</h1>
-<h3 align="center">CS Student | Java & C Programmer | Cybersecurity Enthusiast</h3>
 
 ---
 
