@@ -65,12 +65,12 @@ Demonstrates **file handling, data organization, and basic application structure
 
 <div align="center">
 
-<!-- 🔷 Custom Header -->
+<!-- Custom Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=CYBERSAAD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Cybersecurity%20Learner&descAlignY=60&descSize=20" />
 
 <br/>
 
-<!-- 🔹 Stats -->
+<!-- Stats -->
 <table>
 <tr>
 <td>
