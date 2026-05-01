@@ -93,7 +93,7 @@ Demonstrates **file handling, data organization, and basic application structure
 
 <br/><br/>
 
-<!-- Activity Graph -->
+<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybersaad&custom_title=Contribution%20Activity&bg_color=0d1117&color=c9d1d9&line=00f5d4&point=ffffff&area=true&hide_border=true&area_color=00f5d4&height=350" width="97%" />
 
 <br/><br/>
