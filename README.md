@@ -122,9 +122,8 @@ Demonstrates **file handling, data organization, and basic application structure
 
 ## 🎯 Current Focus
 
-- 📚 Data Structures & Algorithms  
-- ☕ Advanced Java (OOP + Backend Concepts)  
-- 🔐 Web Security Testing (Burp Suite, Kali Linux)  
+-  Data Structures & Algorithms 
+-  Web Security Testing (Burp Suite, Kali Linux)  
 
 ---
 
