@@ -84,7 +84,7 @@ Demonstrates **file handling, data organization, and basic application structure
 
 <br/>
 
-<!-- Streak -->
+<!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats-phi-hazel.vercel.app/?user=cybersaad&theme=dark&hide_border=true&border_radius=20&background=0d1117&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&currStreakNum=00f5d4&sideNums=c9d1d9&dates=c9d1d9" width="100%" />
 
 <br/><br/>
