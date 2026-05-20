@@ -16,7 +16,7 @@
 
 ---
 
-<!-- Tech Stack -->
+<!-- Tech Stack Section -->
 
 ## ⚙️ Tech Stack
 
