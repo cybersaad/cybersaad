@@ -96,7 +96,7 @@ Demonstrates **file handling, data organization, and basic application structure
 
 <br/><br/>
 
-<!-- Achievements -->
+<!-- Achievements Section-->
 <details>
 <summary><b>🏆 Achievements</b></summary>
 <br>
