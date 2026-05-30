@@ -45,60 +45,64 @@ Interested in how systems work internally — not just surface-level coding
 
 ## <img src="https://img.shields.io/badge/Featured-Projects-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
-### Islamic Inheritance Calculator
-A fully functional **Islamic inheritance calculator** built in pure C, based on the rules outlined in *Islamic Law of Inheritance* by **Hamid Khan**.  
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech</th>
+</tr>
 
-**Key Features:**  
-- Calculates fixed Qur'anic shares (spouse, children, parents)  
-- Handles **Awl cases** (proportional reduction when shares exceed 100%)  
-- Distributes **residue** to residuary heirs with smart heir validation  
-- Modular design with functions like `checkPrimaryHeirs()`, `calculateResidue()`  
-- Menu-driven interface with frame-style console output  
+<tr>
+<td><b>Islamic Inheritance Calculator</b></td>
+<td>
+A fully functional inheritance calculator built in pure C, based on <i>Islamic Law of Inheritance</i> by Hamid Khan.<br/><br/>
+<b>Key Features:</b><br/>
+• Calculates fixed Qur'anic shares (spouse, children, parents)<br/>
+• Handles <b>Awl cases</b> (proportional reduction when shares exceed 100%)<br/>
+• Distributes residue to residuary heirs with smart validation<br/>
+• Modular design — <code>checkPrimaryHeirs()</code>, <code>calculateResidue()</code><br/>
+• Menu-driven interface with frame-style console output
+</td>
+<td>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+</td>
+</tr>
 
-**Concepts:** Arrays, strings, user-defined functions, conditionals, loops  
+<tr>
+<td><b>PDMS — Personal Diary Management System</b></td>
+<td>
+A modern Java Swing desktop app combining five modules into a polished dark-themed interface.<br/><br/>
+<b>Modules:</b> Diary (mood linking), Grocery (purchase tracking), Tasks (color-coded priorities), Mood Tracker (frequency summary), Memories (location-based entries)<br/><br/>
+<b>Highlights:</b><br/>
+• Three-layer architecture (GUI → Manager → Model)<br/>
+• Base64-encoded file persistence — no database needed<br/>
+• Standalone <code>.exe</code> packaging via <code>jpackage</code>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logoColor=white"/>
+</td>
+</tr>
 
-**Tech:** C  
+<tr>
+<td><b>BitFlip — Number System Converter</b></td>
+<td>
+A modern, fully offline Android app for base conversion, binary arithmetic, and scientific calculations.<br/><br/>
+<b>Core Features:</b><br/>
+• Real-time base conversion with fractional support & step-by-step working<br/>
+• Binary arithmetic (+, −, ×, ÷) with bit-level walkthroughs<br/>
+• Scientific calculator (sin, cos, log, √, powers) with DEG/RAD modes<br/><br/>
+<b>Highlights:</b> AMOLED dark theme, glassmorphism UI, persistent history, MVVM architecture, privacy-first (100% offline core)
+</td>
+<td>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Material3-0d1117?style=flat-square&logo=materialdesign&logoColor=white"/>
+</td>
+</tr>
+</table>
 
----
 
-### PDMS — Personal Diary Management System
-A modern **Java Swing** desktop application that combines five essential modules into a single, polished dark-themed interface with a flat design aesthetic.  
-
-**Modules:**  
-- **Diary** — Write entries with mood linking (Happy, Sad, Relaxed, Stressed, Angry), search & filter  
-- **Grocery** — Track items with visual purchased status (green highlight)  
-- **Tasks** — Color-coded priorities (High / Medium / Low) with completion tracking  
-- **Mood Tracker** — Daily mood logging with frequency summary & indicators  
-- **Memories** — Record memories with title, date, location & description  
-
-**Highlights:**  
-- Clean **three-layer architecture** (GUI → Manager → Model)  
-- Base64-encoded file persistence — no database needed  
-- Centralized theming (deep navy palette, rounded buttons, hover effects)  
-- Standalone `.exe` packaging via `jpackage` — no Java required on target PC  
-
-**Tech:** Java 8+, Java Swing, Text File Persistence, Base64 Encoding  
-
----
-
-### BitFlip — Number System Converter & Binary Arithmetic
-A modern, fully offline **Android app** for number-system conversion, binary arithmetic, and scientific calculations — built with **Kotlin** and **Jetpack Compose (Material3)**.  
-
-**Core Features:**  
-- **Base Conversion** — Real-time conversion with fractional number support across all bases, with integrated step-by-step working  
-- **Binary Arithmetic** — Addition, subtraction, multiplication & long division with bit-level step walkthroughs  
-- **Scientific Calculator** — Advanced math (`sin`, `cos`, `log`, `√`, powers) with DEG/RAD modes  
-
-**Highlights:**  
-- Persistent history tracking across all operations  
-- AMOLED dark theme with glassmorphism UI  
-- Auto update check via GitHub Releases  
-- Privacy-first — 100% offline core, no tracking, no ads  
-- MVVM architecture with `BigInteger` for arbitrary-precision binary ops  
-
-**Tech:** Kotlin 2.0+, Jetpack Compose, Material3, MVVM, Android SDK 24–35  
-
----
 
 ### <img src="https://img.shields.io/badge/GitHub-Analytics-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
