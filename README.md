@@ -45,21 +45,58 @@
 
 ## 🧩 Projects
 
-### 🔹 Islamic Inheritance Distribution System
-A logic-heavy application that calculates inheritance shares based on defined rules and edge cases.  
-Focuses on **mathematical logic implementation**.  
+### 🔹 Islamic Inheritance Calculator
+A fully functional **Islamic inheritance calculator** built in pure C, based on the rules outlined in *Islamic Law of Inheritance* by **Hamid Khan**.  
 
-**Tech:** C 
+**Key Features:**  
+- Calculates fixed Qur'anic shares (spouse, children, parents)  
+- Handles **Awl cases** (proportional reduction when shares exceed 100%)  
+- Distributes **residue** to residuary heirs with smart heir validation  
+- Modular design with functions like `checkPrimaryHeirs()`, `calculateResidue()`  
+- Menu-driven interface with frame-style console output  
+
+**Concepts:** Arrays, strings, user-defined functions, conditionals, loops  
+
+**Tech:** C  
 
 ---
 
-### 🔹 Personal Diary Management System
-A simple application that allows users to store, update, and manage daily personal entries securely.  
-Focuses on structured data handling and user interaction through a clean logical flow.  
+### 🔹 PDMS — Personal Diary Management System
+A modern **Java Swing** desktop application that combines five essential modules into a single, polished dark-themed interface with a flat design aesthetic.  
 
-Demonstrates **file handling, data organization, and basic application structure**.  
+**Modules:**  
+- 📖 **Diary** — Write entries with mood linking (Happy, Sad, Relaxed, Stressed, Angry), search & filter  
+- 🛒 **Grocery** — Track items with visual purchased status (green highlight)  
+- 📋 **Tasks** — Color-coded priorities (🔴 High / 🟠 Medium / 🟢 Low) with completion tracking  
+- 😊 **Mood Tracker** — Daily mood logging with frequency summary & emoji indicators  
+- 💫 **Memories** — Record memories with title, date, location & description  
 
-**Tech:** Java
+**Highlights:**  
+- Clean **three-layer architecture** (GUI → Manager → Model)  
+- Base64-encoded file persistence — no database needed  
+- Centralized theming (deep navy palette, rounded buttons, hover effects)  
+- Standalone `.exe` packaging via `jpackage` — no Java required on target PC  
+
+**Tech:** Java 8+, Java Swing, Text File Persistence, Base64 Encoding  
+
+---
+
+### 🔹 BitFlip — Number System Converter & Binary Arithmetic
+A modern, fully offline **Android app** for number-system conversion, binary arithmetic, and scientific calculations — built with **Kotlin** and **Jetpack Compose (Material3)**.  
+
+**Core Features:**  
+- 🔄 **Base Conversion** — Real-time conversion with fractional number support across all bases, with integrated step-by-step working  
+- ➕ **Binary Arithmetic** — Addition, subtraction, multiplication & long division with bit-level step walkthroughs  
+- 🧮 **Scientific Calculator** — Advanced math (`sin`, `cos`, `log`, `√`, powers) with DEG/RAD modes  
+
+**Highlights:**  
+- Persistent history tracking across all operations  
+- AMOLED dark theme with glassmorphism UI  
+- Auto update check via GitHub Releases  
+- Privacy-first — 100% offline core, no tracking, no ads  
+- MVVM architecture with `BigInteger` for arbitrary-precision binary ops  
+
+**Tech:** Kotlin 2.0+, Jetpack Compose, Material3, MVVM, Android SDK 24–35  
 
 ---
 
