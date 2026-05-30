@@ -7,26 +7,26 @@
 
 ---
 
-## 🧠 Profile Summary
+## <img src="https://img.shields.io/badge/Profile-Summary-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
-🎓 Computer Science student focused on **practical skills and real-world systems**  
-💻 Strong grip on **Java (OOP)** and **C fundamentals**  
-🔐 Actively learning **Cyber Security & Web Vulnerability Testing**  
-⚙️ Interested in how systems work internally — not just surface-level coding  
+Computer Science student focused on **practical skills and real-world systems**  
+Strong grip on **Java (OOP)** and **C fundamentals**  
+Actively learning **Cyber Security & Web Vulnerability Testing**  
+Interested in how systems work internally — not just surface-level coding  
 
 ---
 
 <!-- Tech Stack Section -->
 
-## ⚙️ Tech Stack
+## <img src="https://img.shields.io/badge/Tech-Stack-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,c,html,css,mysql&theme=dark"/>
 </p>
 
 
-### 🛡️ Tools & Environment
+### Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
 </p>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
-### 🔐 Security Tools
+### Security Tools
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -43,9 +43,9 @@
 
 ---
 
-## 🧩 Projects
+## <img src="https://img.shields.io/badge/Featured-Projects-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
-### 🔹 Islamic Inheritance Calculator
+### Islamic Inheritance Calculator
 A fully functional **Islamic inheritance calculator** built in pure C, based on the rules outlined in *Islamic Law of Inheritance* by **Hamid Khan**.  
 
 **Key Features:**  
@@ -61,15 +61,15 @@ A fully functional **Islamic inheritance calculator** built in pure C, based on 
 
 ---
 
-### 🔹 PDMS — Personal Diary Management System
+### PDMS — Personal Diary Management System
 A modern **Java Swing** desktop application that combines five essential modules into a single, polished dark-themed interface with a flat design aesthetic.  
 
 **Modules:**  
-- 📖 **Diary** — Write entries with mood linking (Happy, Sad, Relaxed, Stressed, Angry), search & filter  
-- 🛒 **Grocery** — Track items with visual purchased status (green highlight)  
-- 📋 **Tasks** — Color-coded priorities (🔴 High / 🟠 Medium / 🟢 Low) with completion tracking  
-- 😊 **Mood Tracker** — Daily mood logging with frequency summary & emoji indicators  
-- 💫 **Memories** — Record memories with title, date, location & description  
+- **Diary** — Write entries with mood linking (Happy, Sad, Relaxed, Stressed, Angry), search & filter  
+- **Grocery** — Track items with visual purchased status (green highlight)  
+- **Tasks** — Color-coded priorities (High / Medium / Low) with completion tracking  
+- **Mood Tracker** — Daily mood logging with frequency summary & indicators  
+- **Memories** — Record memories with title, date, location & description  
 
 **Highlights:**  
 - Clean **three-layer architecture** (GUI → Manager → Model)  
@@ -81,13 +81,13 @@ A modern **Java Swing** desktop application that combines five essential modules
 
 ---
 
-### 🔹 BitFlip — Number System Converter & Binary Arithmetic
+### BitFlip — Number System Converter & Binary Arithmetic
 A modern, fully offline **Android app** for number-system conversion, binary arithmetic, and scientific calculations — built with **Kotlin** and **Jetpack Compose (Material3)**.  
 
 **Core Features:**  
-- 🔄 **Base Conversion** — Real-time conversion with fractional number support across all bases, with integrated step-by-step working  
-- ➕ **Binary Arithmetic** — Addition, subtraction, multiplication & long division with bit-level step walkthroughs  
-- 🧮 **Scientific Calculator** — Advanced math (`sin`, `cos`, `log`, `√`, powers) with DEG/RAD modes  
+- **Base Conversion** — Real-time conversion with fractional number support across all bases, with integrated step-by-step working  
+- **Binary Arithmetic** — Addition, subtraction, multiplication & long division with bit-level step walkthroughs  
+- **Scientific Calculator** — Advanced math (`sin`, `cos`, `log`, `√`, powers) with DEG/RAD modes  
 
 **Highlights:**  
 - Persistent history tracking across all operations  
@@ -100,7 +100,7 @@ A modern, fully offline **Android app** for number-system conversion, binary ari
 
 ---
 
-### 📊 GitHub Analytics
+### <img src="https://img.shields.io/badge/GitHub-Analytics-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
 <div align="center">
 
@@ -135,7 +135,7 @@ A modern, fully offline **Android app** for number-system conversion, binary ari
 
 <!-- Achievements Section-->
 <details>
-<summary><b>🏆 Achievements</b></summary>
+<summary><b>Achievements</b></summary>
 <br>
 <img src="https://github-profile-trophy-eight.vercel.app/?username=cybersaad&theme=darkhub&no-frame=true&margin-w=10"/>
 </details>
@@ -155,14 +155,14 @@ A modern, fully offline **Android app** for number-system conversion, binary ari
 </div>
 
 
-## 🎯 Current Focus
+## <img src="https://img.shields.io/badge/Current-Focus-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
 -  Data Structures & Algorithms 
 -  Web Security Testing (Burp Suite, Kali Linux)  
 
 ---
 
-## 🤝 Connect
+## <img src="https://img.shields.io/badge/Connect-With%20Me-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
 <p align="center">
 <a href="https://github.com/cybersaad"><img src="https://skillicons.dev/icons?i=github"/></a>
@@ -172,7 +172,7 @@ A modern, fully offline **Android app** for number-system conversion, binary ari
 
 ---
 
-# ⚡ FINAL LINE
+#
 
 <p align="center">
   <i>"Security is not a product, it's a mindset."</i>
