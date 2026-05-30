@@ -133,7 +133,7 @@ A modern, fully offline **Android app** for number-system conversion, binary ari
 
 <br/><br/>
 
-<!-- Achievements -->
+<!-- Achievements Section-->
 <details>
 <summary><b>🏆 Achievements</b></summary>
 <br>
