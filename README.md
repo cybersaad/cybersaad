@@ -11,7 +11,7 @@
 
 Computer Science student focused on **practical skills and real-world systems**  
 Strong grip on **Java (OOP)** and **C fundamentals**  
-Actively learning **Cyber Security & Web Vulnerability Testing**  
+Actively learning **Cyber Security**  
 Interested in how systems work internally — not just surface-level coding  
 
 ---
