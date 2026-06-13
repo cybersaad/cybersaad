@@ -4,7 +4,6 @@
   <img src="https://raw.githubusercontent.com/cybersaad/cybersaad/main/banner.png" width="100%" />
 </p>
 
-
 ---
 
 ## <img src="https://img.shields.io/badge/Profile-Summary-58a6ff?style=for-the-badge&labelColor=0d1117" />
