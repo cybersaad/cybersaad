@@ -24,7 +24,6 @@ Interested in how systems work internally
   <img src="https://skillicons.dev/icons?i=java,c,html,css,mysql&theme=dark"/>
 </p>
 
-
 ### Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark"/>
