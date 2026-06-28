@@ -101,7 +101,6 @@ A modern, fully offline Android app for base conversion, binary arithmetic, and 
 </table>
 
 
-
 ### <img src="https://img.shields.io/badge/GitHub-Analytics-58a6ff?style=for-the-badge&labelColor=0d1117" />
 
 <div align="center">
